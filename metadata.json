@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ¿Quién Soy? - Edición Española",
+  "description": "Un emocionante juego de adivinanzas sobre personajes célebres de la cultura española, impulsado por IA para generar pistas ingeniosas y desafíos dinámicos.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
